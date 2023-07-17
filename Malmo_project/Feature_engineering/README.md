@@ -1,9 +1,9 @@
-<h2 id="feature-engineering">Feature engineering</h2>
+## Feature engineering
 
 
-<ul>
-<li>Feature</li>
-</ul>
+
+- OSMnx is a Python library that allows for easy access, retrieval, and analysis of spatial data from OpenStreetMap (OSM).
+- RegSO stands for "Regional Division for Statistical Purposes" and it is a classification system used to divide Sweden into statistical areas. The purpose of RegSO is to facilitate the collection, analysis, and reporting of statistics at a regional level.
 
 
 <table width=100% valign=top >
@@ -209,7 +209,7 @@
     <td>f38</td>
     <td>pop_38</td>
     <td>Population</td>
-    <td>RegSo</td>
+    <td>RegSO</td>
   </tr>
   <tr>
     <td colspan="4">Target</td>
