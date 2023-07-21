@@ -209,7 +209,7 @@
     <td>f38</td>
     <td>pop_38</td>
     <td>Population</td>
-    <td>RegSo</td>
+    <td>[RegSo](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101/)</td>
   </tr>
   <tr>
     <td colspan="4">Target</td>
