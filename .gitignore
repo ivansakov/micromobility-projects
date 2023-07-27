@@ -161,4 +161,4 @@ cython_debug/
 
 # Dir
 Coastline/
-/cache/
+**/cache/
