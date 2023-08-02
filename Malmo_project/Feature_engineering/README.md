@@ -1,6 +1,6 @@
 ## Feature engineering
 
-
+- This project aims to develop a pipeline that can generate geospatial features from open data sources, such as OpenStreetMap and statistical agencies. These independent features, combined with observations of the number of trips from each h3 zone, enable the training of a model to predict the number of trips for other cities in Sweden.
 
 - OSMnx is a Python library that allows for easy access, retrieval, and analysis of spatial data from OpenStreetMap (OSM).
 - RegSO stands for "Regional Division for Statistical Purposes" and it is a classification system used to divide Sweden into statistical areas. The purpose of RegSO is to facilitate the collection, analysis, and reporting of statistics at a regional level.

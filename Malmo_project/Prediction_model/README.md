@@ -1,3 +1,3 @@
 ## Prediction model
 
-- This Jupyter Notebook includes preparing the dataset for training machine learning models, training Random Forest Regressor, and LightGBM Regressor models.
+- The project involves the process of training and validating various machine learning models for predicting number of outcomming e-scooter trips in Malmo city. At this stage, we will use Random Forest and LightGBM models.
